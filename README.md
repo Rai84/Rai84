@@ -8,6 +8,7 @@ My name is Rai Gonçalves!
 <a href = "rai.goncalves965@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/rai-gon%C3%A7alves-124818181/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+<img src="https://lh3.googleusercontent.com/pw/AL9nZEXL52hPEm3K8MQLlKgGk6CrSTK4yfcPQ7KzpTmAB8bhgXqlJT2pWnfi45XrJSsQ9GyVT545J0Tyavcgvi-ohY37RitPY57KGqHjley6Lg17q0QOeS3VlKfjUYQd37SBVNWWjJF8pqT_TKfcHQgDWqfJmA=w135-h255-no?authuser=0" 
 
 
 ## Ferramentas e Tecnologias
