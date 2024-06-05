@@ -37,5 +37,6 @@ My name is Rai Gonçalves!
 <div>
 <a href="https://github.com/Rai84">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rai84&layout=compact&langs_count=7&theme=dracula"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=Rai84&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="150em" src="https:https://github-readme-stats.vercel.app/api?username=Rai84&theme=dark&show_icons=true"/>
+  
 </div>
