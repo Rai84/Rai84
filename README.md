@@ -34,11 +34,8 @@ My name is Rai Gonçalves!
 ##
 
 <div>
-<a href="https://github.com/Rai84">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rai84&layout=compact&langs_count=7&theme=dracula" style="margin-right: 10px;"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=Rai84&show_icons=true&theme=dracula"/>
-
-</a>
-</div>
-  
+  <a href="https://github.com/Rai84">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rai84&layout=compact&langs_count=7&theme=dracula" style="margin-right: 10px;"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Rai84&show_icons=true&theme=dracula"/>
+  </a>
 </div>
