@@ -40,4 +40,3 @@ My name is Rai Gonçalves!
   </a>
 </div>
 
-![Snake animation](https://github.com/seu-usuário-aqui/Rai84/blob/output/github-contribution-grid-snake.svg)
