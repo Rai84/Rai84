@@ -39,3 +39,5 @@ My name is Rai Gonçalves!
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Rai84&show_icons=true&theme=dracula"/>
   </a>
 </div>
+
+![Snake animation](https://github.com/seu-usuário-aqui/Rai84/blob/output/github-contribution-grid-snake.svg)
